@@ -2,9 +2,6 @@
 
 
 
-**1. Screenshot 1 A dog:**
-
-![App Screenshot](screenshot1.png)
 
 
 
